@@ -1,0 +1,229 @@
+    1  npm init -y
+    2  npm install express socket.io
+    3  node server.js
+    4  cd 'Chat'
+    5  node server.js
+    6  npm init -y
+    7  npm install express socket.io
+    8  node server.js
+    9  clear
+   10  node server.js
+   11  npm install multer
+   12  node server.js
+   13  clear
+   14  cd 'Chat'
+   15  npm server.js
+   16  node server.js
+   17  clear
+   18  node server.js
+   19  cd "Chat"
+   20  node server.js
+   21  cd ..
+   22  clear
+   23  cd "Programação com JavaScript"
+   24  clear
+   25  node --version
+   26  nmp --version
+   27  jest --version
+   28  npm init -y
+   29  npm install --save-dev jest
+   30  npm run test
+   31  ls
+   32  cd ~/Controle de versão
+   33  clear
+   34  cd "Controle de versão"
+   35  mkdir myjsproject
+   36  ls
+   37  cd myjsproject/
+   38  clear
+   39  touch example.js
+   40  ls
+   41  code example.js
+   42  cd "Contrle de versão"
+   43  clear
+   44  ls
+   45  cd 'Controle de versão'
+   46  ls l
+   47  clear
+   48  l
+   49  cd myjsproject/
+   50  ls -a
+   51  pwd
+   52  less
+   53  less --help
+   54  uit
+   55  grep
+   56  ls -l
+   57  clear
+   58  cd ~
+   59  ls -la
+   60  less .bashrc
+   61  less .profile
+   62  vim testshell.sh
+   63  ls
+   64  cd 'Controle de versão' 
+   65  ls
+   66  cd myjsproject/
+   67  clear
+   68  ls -la
+   69  chmod 755 testshell.sh
+   70  clear
+   71  vim testeshell.sh
+   72  ls -la
+   73  chmod 755 testshell.sh
+   74  # chmod 755 testshell.sh
+   75  ls -la
+   76  ./testeshell.sh
+   77  clear
+   78  ls -la
+   79  chmod 755 testeshell.sh
+   80  ls -la
+   81  ./testeshell.sh
+   82  clear
+   83  pwd
+   84  ls
+   85  ls -l
+   86  cd etc
+   87  mkdir etc
+   88  ls -l
+   89  cd etc
+   90  ls
+   91  clear
+   92  pwd
+   93  ls -l
+   94  cd ..
+   95  pwd
+   96  cd etc
+   97  etc
+   98  cd /
+   99  cd tarefa
+  100  pwd
+  101  cd etc
+  102  ls
+  103  cd ssh
+  104  cd ..
+  105  cd 'tarefa'
+  106  ls
+  107  cd 'Controle de versão'
+  108  ls
+  109  csmy
+  110  cd myjsproject/
+  111  clear
+  112  ls
+  113  pwd
+  114  ls -l
+  115  mkdir submissions
+  116  ls
+  117  ls -l
+  118  cd submissions/
+  119  ls
+  120  touch teste1.txt
+  121  touch teste2.txt
+  122  ls -l
+  123  cd ..
+  124  ls -l
+  125  mkdir archive
+  126  ls -l
+  127  clear
+  128  ls -l
+  129  mv submissions archive
+  130  ls -l
+  131  cd archive
+  132  ls -l
+  133  cd submissions/
+  134  ls -l
+  135  clear
+  136  cd 'Controle de versão'
+  137  mkdir archive projects
+  138  ls -l
+  139  clear
+  140  cd achive
+  141  ls
+  142  cd archive
+  143  cd subbmissions
+  144  ls
+  145  ls -l
+  146  cd ..
+  147  ls -l
+  148  cd archive
+  149  pwd
+  150  ls -l
+  151  cd submissions
+  152  mkdir submissions
+  153  ls -l
+  154  cd submissions/
+  155  clear
+  156  touch file1.txt
+  157  touch file2.txt
+  158  cat file1.txt
+  159  ls
+  160  cat file1.txt
+  161  start file1.txt
+  162  cat teste1.txt
+  163  ls -l
+  164  code .
+  165  clear
+  166  cat file1.txt
+  167  wc file1.txt -w
+  168  ls
+  169  ls | wc -w
+  170  cat file1.txt | wc -w
+  171  cat file1.txt file2.txt | wc -w
+  172  history > comandos.txt
+  173  history comandos.txt
+  174  ls -l
+  175  clear
+  176  cd..
+  177  cd ..
+  178  clear
+  179  cat > input.txt
+  180  clear
+  181  cat input.txt
+  182  ls
+  183  ls -l > output.txt
+  184  ls
+  185  less output.txt
+  186  ls -l /bin/usr > error.txt
+  187  ls -l /bin/usr 2> error.txt
+  188  less error.txt
+  189  ls -l /bin/usr > error_output.txt 2>&1
+  190  less error_output.txt
+  191  history > command.txt
+  192  clear
+  193  cd 'Controle de versão'
+  194  ls -l
+  195  cd myjsproject/
+  196  ls
+  197  ls -l
+  198  cd archive/
+  199  ls -l
+  200  touch names.txt
+  201  less names.txt
+  202  grep Sam names.txt
+  203  grep sam names.txt
+  204  grep -i Sam names.txt
+  205  grep -w Sam names.txt
+  206  ls /bin
+  207  ls /bin | grep zip
+  208  history > command.txt
+  209  mkdir new-project
+  210  cd new-project/
+  211  clear
+  212  git clone https://github.com/Alan-0718-sj/coursera-project-end-css.git
+  213  ls
+  214  cd coursera-project-end-css/
+  215  ls -la
+  216  code .
+  217  clear
+  218  pwd
+  219  ls -la
+  220  git status
+  221  touch test.txt
+  222  git status
+  223  git add test.txt
+  224  git status
+  225  git restore --stage test.txt
+  226  git status
+  227  git add test.txt
+  228  git status
+  229  history > command.txt
